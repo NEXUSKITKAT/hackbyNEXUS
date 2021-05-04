@@ -4,6 +4,7 @@ Es un script para quitar la pantalla de bloqueo de Epoptes
 GUIA DE EJECUCION
 
 Descarga el archivo decomprimelo y abre una terminal en la careta y ejecuta los siguienetes comandos 
+
 chmod +x hackbyNexus.sh
 bash hackbyNexus.sh
 
