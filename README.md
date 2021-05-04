@@ -1,7 +1,7 @@
 # hackbyNEXUS
 Es un script para quitar la pantalla de bloqueo de Epoptes(la pantalla de bloqueo negra)
 
-![ Descpricion imagen:pantalla con candado de Epoptes ]
+[Descpricion imagen:pantalla con candado de Epoptes]
 (https://ibb.co/ykx9jLW)
 
 Funciona en cualquier linux y se hizo en lliurex
